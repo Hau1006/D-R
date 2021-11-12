@@ -1,0 +1,9 @@
+.item-card { 
+    text-decoration: none !important;
+}
+a { 
+    text-decoration: none;
+}
+.rating span { 
+    margin: 0.05rem;
+}
